@@ -18,5 +18,11 @@ Lim Pier
 Liu Theodorus David Leonardi  
 Tsan Yee Soon                             
 
+## Data Preparation
+Some work in R was done to transform data from the original fields to fields that we felt were valuable as predictors for modeling. eg. win efficiency
+
+## Modeling
+We investigating random forests, xgboost, neural networks, decision trees and logistic regression over the course of this project. The eventual model chosen was logistic regression.
+
 The R Markdown files are included. This repository is the final one that contains the submitted findings.
 Working repository during the project : https://github.com/lppier/KE5107_LeagueofLegends
