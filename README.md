@@ -10,6 +10,8 @@ This was a group project in data mining following the CRISP-DM methodology :
 - Evaluation
 - Deployment
 
+Personally, I did some data pre-processing, creating new predictors out of exisiting features. I also ran the models in R to investigate the accuracy at various time slices. For the report, I worked on the interpretation and evaluation of the models' metrics. eg. ROC curve, confusion matrix, etc.
+
 ## Team Members
 Anurag Chatterjee                     
 Bhujbal Vaibhav Shivaji              
