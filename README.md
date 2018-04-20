@@ -1,6 +1,7 @@
 ## League_Of_Legends_Data_Analytics
 
 **Summary :** We were able to attain **71.3%** pre-game accuracy as to whether a team would win against another team. This accuracy goes up marginally as the match progresses as more data is attained. 
+Full Report Here : https://github.com/lppier/League_Of_Legends_Data_Analytics/blob/master/FT01_LeagueOfLegends_Report.pdf
 
 Data Analytics on League of Legends dataset from Kaggle : https://www.kaggle.com/chuckephron/leagueoflegends
 We assumed the role of investigating odds of a certain team winning in an e-sports situation at certain time points. (before the game, 5 minutes into the game, 10 minutes into the game and halfway through the game). 
